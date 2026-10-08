@@ -90,7 +90,7 @@ I used Codex to investigate the appropriate Python version, installation command
 
 **What command or fix did you choose to run yourself?**
 
-I manually installed the dependencies, applied the BasicSR compatibility fix, and ran the inference command. I used ChatGPT for additional troubleshooting after consulting Codex.
+I manually ran the installation commands, applied the BasicSR compatibility fix, and executed the inference command. I used ChatGPT for additional troubleshooting after consulting Codex.
 
 **How did you verify the result?**
 
