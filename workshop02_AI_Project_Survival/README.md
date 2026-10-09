@@ -95,3 +95,11 @@ I manually ran the installation commands, applied the BasicSR compatibility fix,
 **How did you verify the result?**
 
 I reran the inference command and confirmed that the restored images were generated in `results/restored_imgs/`.
+
+## Peer Reproduction
+
+**Reviewer:** Erica Malca
+ 
+**Reproduction result:** PASS
+ 
+**Comment:** I was able to recreate the program perfectly from Hanyu's instructions
